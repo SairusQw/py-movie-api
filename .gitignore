@@ -1,6 +1,9 @@
-.db3
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
 db.sqlite3
-.pyc
-.idea
-/venv
-__pycache__
+.env
+venv/
